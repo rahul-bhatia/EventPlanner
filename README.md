@@ -1,4 +1,4 @@
-# TripPlanner
+# EventPlanner
 
 ## Description
 A system where you can find companions for your trip and plan your itinerary.
